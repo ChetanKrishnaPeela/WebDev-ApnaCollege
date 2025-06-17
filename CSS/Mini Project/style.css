@@ -1,0 +1,14 @@
+body{
+    background-image: url("photo.jpg");
+}
+.material-symbols-outlined {
+  color: white;
+}
+div{
+    color: white;
+    font-size: 25px;
+}
+#sidebar{
+    display: flex;
+    flex-direction:column;
+}

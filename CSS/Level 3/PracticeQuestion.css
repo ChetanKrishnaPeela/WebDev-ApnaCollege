@@ -1,0 +1,23 @@
+#div{
+    height: 200px;
+    width: 70px;
+    border: solid black 2px;
+}
+
+.sub-div{
+    height: 50px;
+    width: 50px;
+    border: solid black 2px;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+#div1{
+    background-color: red;
+}
+#div2{
+    background-color: yellow;
+}
+#div3{
+    background-color: green;
+}
